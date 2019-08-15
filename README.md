@@ -4,6 +4,5 @@ Backpropagation is modified to use weight decay, cell decay and hidden cell divi
 
 This example outputs logs such as number of iterations until convergence, number of cell divisions and number of decayed weights.
 
-Output: {}
 # Compile & run
 g++ -o main.exe main.cpp
